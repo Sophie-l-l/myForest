@@ -1,5 +1,5 @@
 
-//assign the value of the pahe scroll height to the scrollTop variable
+//assign the value of the page scroll height to the scrollTop variable
 const handleScroll=() =>{
     const scrollTop=document.documentElement.scrollTop;
     document.documentElement.style.setProperty('--scrollTop',`${scrollTop}px`);

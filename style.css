@@ -40,7 +40,7 @@ body{
     transform:translateY(calc(var(--scrollTop)/1.6));
 }
 #summer-front{
-    background-image: url(./img/sumer-front.png);
+    background-image: url(./img/summer-front.png);
     transform:translateY(calc(var(--scrollTop-one)/5.7));
 }
 #summer-base{
